@@ -1,0 +1,20 @@
+Trajectory=1
+P = [20, 20, 10]
+D = [0.05, 0.05, 0.05]
+Maximum height:  -0.18902461372914048
+Minimum height:  -0.3182061028561332
+Maximum width:  0.03511957810243696
+Minimum width:  0.007406669875698152
+
+Plots prefix: real_traj0
+
+Trajectory=1
+P = [50, 80, 20]
+D = [0.05, 0.05, 0.05]
+Maximum height:  -0.19240802735164148
+Minimum height:  -0.31951350762112546
+Maximum width:  0.019827212840228373
+Minimum width:  -0.12168102468676359
+
+Plots prefix: real_traj1
+

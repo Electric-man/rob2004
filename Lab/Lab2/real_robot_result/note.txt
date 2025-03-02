@@ -1,4 +1,4 @@
-Trajectory=1
+Trajectory=0
 P = [20, 20, 10]
 D = [0.05, 0.05, 0.05]
 Maximum height:  -0.18902461372914048

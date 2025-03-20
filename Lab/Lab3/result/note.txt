@@ -11,3 +11,7 @@ D = np.array([1, 1, 1])
 PD gains for Part II simulator:
 P = np.array([10, 10, 10])
 D = np.array([0.5, 0.5, 0.5])
+
+PD gains for Part II real robot:
+P = np.array([180, 150, 150])
+D = np.array([1, 0.8, 0.8])

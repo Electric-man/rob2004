@@ -7,3 +7,7 @@ The 3rd ball cannot be reached by the robot.
 PD gains for Part I Real Robot:
 P = np.array([90, 90, 90])
 D = np.array([1, 1, 1])
+
+PD gains for Part II simulator:
+P = np.array([10, 10, 10])
+D = np.array([0.5, 0.5, 0.5])

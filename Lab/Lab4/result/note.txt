@@ -1,3 +1,7 @@
 Question 1
 K = np.array([100, 100, 100])
 D = np.array([3, 3, 3])
+
+Q2
+K = np.array([200, 200, 200])
+D = np.array([2, 2, 2])

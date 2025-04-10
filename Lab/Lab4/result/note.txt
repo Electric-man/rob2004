@@ -2,6 +2,14 @@ Question 1
 K = np.array([100, 100, 100])
 D = np.array([3, 3, 3])
 
-Q2
+Q2 and Q3
 K = np.array([200, 200, 200])
 D = np.array([2, 2, 2])
+
+Q4-B
+K = np.array([10000, 10000, 100])
+D = np.array([50, 50, 1])
+
+Q4-circle
+K = np.array([9000, 9000, 200])
+D = np.array([40, 40, 2])
